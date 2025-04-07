@@ -1,0 +1,11 @@
+vendor/
+data/locks/
+logs/
+tmp/
+
+
+.vscode
+.idea
+.php-cs-fixer.cache
+.roomodes
+.roo
